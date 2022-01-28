@@ -1,0 +1,16 @@
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgba(255, 208, 165, 0.946);
+}
+
+.eyesWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px;
+    gap: 10px;
+    
+}
